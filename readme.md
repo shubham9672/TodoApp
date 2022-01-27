@@ -23,10 +23,10 @@ git clone
 cd TodoApp
 ```
 
-### 2. activate virtual Env
+### 2. Install Required Packages
 
 ```
-$ env\Scripts\activate
+$ pip install -r requirements.txt
 ```
 ### 3. Run file
 
